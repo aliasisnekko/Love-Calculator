@@ -1,0 +1,9 @@
+body {
+    color: rebeccapurple;
+}
+
+.btn-pink {
+    background-color: #f875aa;
+    color: #fff;
+    border-color: #000;
+}
