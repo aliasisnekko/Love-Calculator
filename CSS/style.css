@@ -1,9 +1,23 @@
+html {
+    height: 100%;
+}
+
 body {
-    color: rebeccapurple;
+    height: 75%;
+    margin: 0;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    color: #fff;
+    background: rgb(118, 56, 87);
+    background: linear-gradient(180deg, rgba(118, 56, 87, 1) 0%, rgba(239, 129, 114, 1) 100%);
 }
 
 .btn-pink {
     background-color: #f875aa;
     color: #fff;
     border-color: #000;
+}
+
+.mass-center {
+    margin-top: 150px;
 }
