@@ -3,7 +3,7 @@ loveScore = loveScore * 10;
 loveScore = Math.floor(loveScore) + 1;
 
 
-$(".btn-pink").click(function() {
+documuent.GetElementByClassName("btn-pink").click(function() {
     let fName = document.getElementsByTagName("input")[0].value;
     let sName = document.getElementsByTagName("input")[1].value;
     if (loveScore > 7) {
